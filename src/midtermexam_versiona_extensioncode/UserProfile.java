@@ -60,9 +60,10 @@ public class UserProfile
     public void setGenre(String genre) {
         this.genre = genre;
     }
+    //this is comment #1
+    //this is comment #2
     
     
     
     
-    
-}//end class
+}
